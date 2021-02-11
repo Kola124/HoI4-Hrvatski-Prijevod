@@ -1,0 +1,6 @@
+﻿l_english:
+ CHAT_USERJOINEDCHANNEL:0 "$NAME$ se pridružio."
+ CHAT_USERDISCONNECTED:0 "$NAME$ se isključio."
+ CHAT_USERWASBANNED:0 "$NAME$ je izopčen."
+ CHAT_USERLEFTCHANNEL:0 "$NAME$ je napustio kanal."
+ CHAT_CHANNEL_GENERAL:0 "Općenito"
