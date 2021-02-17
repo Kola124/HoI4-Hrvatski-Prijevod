@@ -19,7 +19,7 @@
  do_you_mined_tt:1 "Više od §Y999§! naših mina na obali."
  assuming_direct_control_achievement_flag:0 "Preuzeto vodstvo saveza od §Y[ENG.GetName]§!, §Y[GER.GetName]§! ili §Y[SOV.GetName]§!.\n"
  USA_civil_war_fired_democrats:0 "Bostonska pobuna je počela.\n"
- putting_the_raid_on_the_medway_to_shame_tt:0 "Bilo koja država:\nOrginalna država je [ENG.GetName]\nIma najviše §Y0 Capital Ship§! brodova"
+ putting_the_raid_on_the_medway_to_shame_tt:0 "Bilo koja država:\nOrginalna država je [ENG.GetName]\nIma najviše §Y0 Kapitlnih brodova§!"
  borbon_stuff_tt:0 "Osvoji cijelu Francusku."
  die_albion_tt:0 "Osvoji cijelu Veliku Britaniju i Sjevernu Irsku."
  portugal_macau_my_day_tt:0 "Napravi kolabracijsku državu u Makau i neka ona kontrolira svu jezgru Kine i Mandžurije."
